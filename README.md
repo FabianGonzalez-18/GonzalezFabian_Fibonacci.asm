@@ -77,3 +77,5 @@ fin:
     # Salir del programa
     li $v0, 10
     syscall
+Serie Fibonacci: 0 1 1 2 3 
+La suma de los números es: 7
